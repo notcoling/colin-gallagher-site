@@ -37,7 +37,8 @@ If you need more detailed instructions for installing Ruby or Jekyll you can fin
 
 You can also get started with this project on Netlify by clicking the button below:
 
-
+<!-- Markdown snippet -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/notcoling/hyde-like)
 
 ## Usage
 
@@ -134,13 +135,13 @@ Hyde-Like has only one branch in for active development.
 
 ## Authors
 Colin Gallagher - Hyde-Like author
-https://github.com/notcoling
-https://twitter.com/notcolinn
+- https://github.com/notcoling
+- https://twitter.com/notcolinn
 
 Mark Otto - Original Hyde Jekyll theme author
-https://github.com/mdo
-https://twitter.com/mdo
+- https://github.com/mdo
+- https://twitter.com/mdo
 
 
 ## License
-Open sourced under the MIT license.
+Open sourced under the MIT license. ⚖️ ❤️
