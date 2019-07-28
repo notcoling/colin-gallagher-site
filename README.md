@@ -144,4 +144,4 @@ Mark Otto - Original Hyde Jekyll theme author
 
 
 ## License
-Open sourced under the MIT license. ⚖️ ❤️
+⚖️ Open sourced under the MIT license. ❤️
