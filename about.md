@@ -1,30 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
+I’m a data scientist, web developer, software engineer, and marketing professional. I currently work as a marketer for Mentor, a Siemens Business.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="{{site.baseurl}}public/img/colin.jpg" alt="A Picture of Me" class="cgme-about-page-image">
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### What I Do Outside of Work
 
-There are currently two themes built on Poole:
+When I’m not working I like to work on side projects, read, and explore Oregon. I try to learn and meet new people as much as possible. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### What I'm Working On
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I’ve always got a project or two that I’m actively working on. If you’re curious you can head over to my projects page too take a look. Most of the things I’m working on revolve around web technologies but occasionally I work on things like games, VR, or even music.
 
-## Setup
+### How to Talk to Me
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If you’d like to contact me, the best way by far is email, you can reach me at colin@colingallagher.me. And of course I’m on social media as well. You can find me on [Twitter](https://twitter.com/notcolinn), [Instagram](https://instagram.com/notcolinn), and [LinkedIn](https://www.linkedin.com/in/colindgallagher).

@@ -13,38 +13,84 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your Title
+title: Colin Gallagher
 email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  Your site description.
-tagline: Tagline
+description: >- # this means to ignore newlines
+  I like to write about data, code, business, books, movies, and music. When I'm not working or writing I'm making things.
+tagline: Data Science | Business | Code
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: https://twitter.com/jekyllrb
-github_username: https://github.com/jekyll/
-instagram_username: 
-linkedin_username: 
+twitter_username: https://twitter.com/notcolinn
+github_username: https://github.com/notcoling
+instagram_username: https://instagram.com/notcolinn
+linkedin_username: https://linkedin.com/in/colindgallagher
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-analytics
+  - jekyll-minifier
+  - jekyll-compress-images
 
 # Permalinks
 permalink: pretty
 
+# Excerpt settings
+excerpt_separator: <!--more-->
+
 # Paginator
 paginate: 5
+
+# Configure Google Analytics
+jekyll_analytics:
+  GoogleAnalytics:             # Add, if you want to track with Google Analytics
+    id: UA-134165278-1         # Required - replace with your tracking id
+    anonymizeIp: true          # Optional - Default: false - set to true for anonymized tracking
+    respectDNT: true
+
+# Optimize Images
+compress_images:
+  images_path: "/public/img/**/*.{gif,png,jpg,jpeg,svg}"
+
+# Jekyll Minifier w/ options
+jekyll-minifier:
+  exclude: 'atom.xml'
+  preserve_php: true                # Default: false
+  remove_spaces_inside_tags: true   # Default: true
+  remove_multi_spaces: true         # Default: true
+  remove_comments: true             # Default: true
+  remove_intertag_spaces: true      # Default: false
+  remove_quotes: false              # Default: false
+  compress_css: true                # Default: true
+  compress_javascript: true         # Default: true
+  compress_json: true               # Default: true
+  simple_doctype: false             # Default: false
+  remove_script_attributes: false   # Default: false
+  remove_style_attributes: false    # Default: false
+  remove_link_attributes: false     # Default: false
+  remove_form_attributes: false     # Default: false
+  remove_input_attributes: false    # Default: false
+  remove_javascript_protocol: false # Default: false
+  remove_http_protocol: false       # Default: false
+  remove_https_protocol: false      # Default: false
+  preserve_line_breaks: false       # Default: false
+  simple_boolean_attributes: false  # Default: false
+  compress_js_templates: false      # Default: false
+  preserve_patterns:                # Default: (empty)
+  uglifier_args:                    # Default: (empty)
+    harmony: true                   # Enable es6 syntax
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

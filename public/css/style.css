@@ -1,0 +1,93 @@
+
+/* CGME Red/Orange */
+.theme-base-cgme .sidebar {
+    background-color: #e44a1e;
+  }
+  .theme-base-cgme .content a,
+  .theme-base-cgme .related-posts li a:hover {
+    color: #e44a1e;
+  }
+
+.cgme-sidebar-logo-image{
+    display:inline;
+    width:25px;
+    height:auto;
+}
+
+.cgme-about-page-image{
+    width:250px;
+    height: auto;
+    float: left; /* wrap text */
+    margin-right: 25px;
+}
+
+.cgme-sidebar-nav-item{
+    margin-right:10px;
+}
+
+/*
+    Brand colors 
+ *  Colors need to function in dark mode enviroment, so in the case of brands like github
+ *  a lighter alternative color is used.
+ *
+ *  Source of brand colors: https://brandcolors.net/
+*/
+.cgme-link-icon-twitter:hover{color:#1da1f2;} /* Twitter brand color */
+.cgme-link-icon-github:hover{color:#333;} /* Github brand color */
+.cgme-link-icon-instagram:hover{color:#c13584;} /* Instagram brand color */
+.cgme-link-icon-linkedin:hover{color:#0077b5;} /* LinkedIn brand color */
+
+/*
+    Photo Grid
+ *  Create grid based on images for project page
+ *
+*/
+.cgme-row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.cgme-column {
+  flex: 50%;
+  max-width: 50%;
+  padding: 0 4px;
+}
+
+.cgme-card {
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.cgme-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.cgme-card-container {
+  padding: 2px 16px;
+}
+
+.cgme-column .cgme-card {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .cgme-column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .cgme-column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
