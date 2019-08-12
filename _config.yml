@@ -33,7 +33,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-analytics
   - jekyll-minifier
-  - jekyll-compress-images
+#  - jekyll-compress-images
 
 # Permalinks
 permalink: pretty
@@ -52,8 +52,9 @@ jekyll_analytics:
     respectDNT: true
 
 # Optimize Images
-compress_images:
-  images_path: "/public/img/**/*.{gif,png,jpg,jpeg,svg}"
+#compress_images:
+#  svgo: false
+#  images_path: "/public/img/**/*.{gif,png,jpg,jpeg}"
 
 # Jekyll Minifier w/ options
 jekyll-minifier:
