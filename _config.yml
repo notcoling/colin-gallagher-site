@@ -35,6 +35,8 @@ plugins:
   - jekyll-minifier
 #  - jekyll-compress-images
 
+include: ['_projects']
+
 # Permalinks
 permalink: pretty
 
@@ -51,9 +53,9 @@ jekyll_analytics:
     anonymizeIp: true          # Optional - Default: false - set to true for anonymized tracking
     respectDNT: true
 
-# Optimize Images
-#compress_images:
-#  svgo: false
+#Optimize Images
+compress_images:
+  svgo: false
 #  images_path: "/public/img/**/*.{gif,png,jpg,jpeg}"
 
 # Jekyll Minifier w/ options
