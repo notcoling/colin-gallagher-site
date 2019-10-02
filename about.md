@@ -16,4 +16,4 @@ I’ve always got a project or two that I’m actively working on. If you’re c
 
 ### How to Talk to Me
 
-If you’d like to contact me, the best way by far is email, you can reach me at colin@colingallagher.me. And of course I’m on social media as well. You can find me on [Twitter](https://twitter.com/notcolinn), [Instagram](https://instagram.com/notcolinn), and [LinkedIn](https://www.linkedin.com/in/colindgallagher).
+You can find me on [Twitter](https://twitter.com/notcolinn), [Instagram](https://instagram.com/notcolinn), and [LinkedIn](https://www.linkedin.com/in/colindgallagher).
