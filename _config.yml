@@ -16,8 +16,8 @@
 title: Colin Gallagher
 email: 
 description: >- # this means to ignore newlines
-  I like to write about data, code, business, books, movies, and music. When I'm not working or writing I'm making things.
-tagline: Data Science | Business | Code
+  I like to build things and write about stuff.
+tagline: Data | Business | Code
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: https://twitter.com/notcolinn
