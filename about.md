@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sidebar-page
 title: About Me
 ---
 I’m a data scientist, web developer, software engineer, and marketing professional. I currently work as a marketer for Mentor, a Siemens Business.

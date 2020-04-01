@@ -2,7 +2,7 @@
 layout: post
 title: Mental Models and Me - First Principles 🚀
 date: 2019-10-01T07:42:50.664Z
-description: This is a series on Mental Models I'm writing to help me understand how they work, and how I can use them to improve my choices. 
+description: I like to use mental models to improve my choices. 
 categories: thoughts
 tags:
   - mental models
@@ -89,6 +89,4 @@ I migrated my WordPress sites to Jekyll (a static site generator), and hosted my
 
 —
 
-Thanks for reading, if you enjoyed that please follow me on <a href="https://twitter.com/notcolinn">Twitter</a>. 
-
-### Next week: Margin of Safety ➡️
+Thanks for reading, if you enjoyed that please follow me on <a href="https://twitter.com/notcolinn">Twitter</a>.

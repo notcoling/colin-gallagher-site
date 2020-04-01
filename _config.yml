@@ -54,9 +54,14 @@ jekyll_analytics:
     respectDNT: true
 
 #Optimize Images
-compress_images:
-  svgo: false
+#compress_images:
+#  svgo: => false
 #  images_path: "/public/img/**/*.{gif,png,jpg,jpeg}"
+
+# Get rid of SVGO - Gemfile last line required also
+imageoptim:
+  svgo: false
+
 
 # Jekyll Minifier w/ options
 jekyll-minifier:
