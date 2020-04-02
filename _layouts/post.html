@@ -5,9 +5,24 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  <span class="post-date">{{ page.categories }}</span>
-  <span class="post-date">{{ page.tags }}</span>
+
   {{ content }}
+</div>
+
+<div class="meta">
+  <h2>Categories</h2>
+  <ul>
+    {% for categories in page.categories %}
+      <a href="/categories#{{ categories }}"><li>{{ categories }}</li></a>
+    {% endfor %}
+  </ul>
+
+  <h2>Tags</h2>
+  <ul>
+    {% for tags in page.tags %}
+      <a href="/tags#{{ tags }}"><li>{{ tags }}</li></a>
+    {% endfor %}
+  </ul>
 </div>
 
 <div class="related">
