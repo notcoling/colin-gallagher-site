@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mental Models and Me - First Principles 🚀
+title: Mental Models - First Principles 🚀
 date: 2019-10-01T07:42:50.664Z
 description: I like to use mental models to improve my choices. 
 categories: thoughts

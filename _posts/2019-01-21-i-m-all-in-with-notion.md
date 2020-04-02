@@ -11,7 +11,8 @@ tags:
   - notion
 excerpt_separator: <!--more-->
 ---
-![Notion Templates | Source: https://notionpages.com]({{site.baseurl}}public/img/notion-templates.png)
+
+![Notion Templates https://notionpages.com]({{site.baseurl}}public/img/notion-templates.png)
 
 Notion is a cross between a project management tool and a wiki. It allows you to create documents, wiki's and to-do lists in a way that does not confine you to a particular workflow. Notion's platform is extremely flexible and free form, which is something that sets it apart and makes it great for a variety of different projects and purposes.
 
@@ -25,7 +26,7 @@ I'm using Notion for a little bit of everything right now.
 
 ## A Personal Wiki
 
-![Notion Wiki | Source: https://notionpages.com]({{site.baseurl}}public/img/notion-wiki.png)
+![Notion Wiki https://notionpages.com]({{site.baseurl}}public/img/notion-wiki.png)
 
 Notion is a great tool for keeping track of things like your goals, notes, ideas, and other things that don't really have a place in other project management tools or apps. It's one thing to keep notes in a document, or something like Google Keep, but having a Wiki-like platform to keep track of your life makes it very easy and natural to start documenting the things that normally might fall through the cracks.
 
@@ -33,7 +34,7 @@ For me, it's been a huge time saver being able to save and organize notes and id
 
 ## Project Management
 
-![Notion Kanban | Source: Notion.so]({{site.baseurl}}public/img/notion-kanban.png)
+![Notion Kanban Notion.so]({{site.baseurl}}public/img/notion-kanban.png)
 
 For project management, Notion offers most of the features found in other applications like to-do lists and even Kanban. I'm a huge fan of Trello (and I'm still keeping my subscription to manage development projects), and Notion does a great job of offering project management that feel on par with the competition, but inside of an application that doesn't force you only to do project management.
 
@@ -41,7 +42,7 @@ Where Notion stumbles here is in the productivity department. Without an API, an
 
 ## Documents and Writing
 
-![Notion Notes | Source: Notion.so]({{site.baseurl}}public/img/notion-notes.png)
+![Notion Notes Notion.so]({{site.baseurl}}public/img/notion-notes.png)
 
 I've also started to use Notion's more document oriented features to do some note taking, and even do things like writing this blog post. Notion looks and feels great when writing, but for serious projects, it's still not a replacement for a traditional WYSIWYG editor or word processing applications like Word or Google Docs.
 

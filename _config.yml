@@ -47,11 +47,11 @@ excerpt_separator: <!--more-->
 paginate: 5
 
 # Configure Google Analytics
-jekyll_analytics:
-  GoogleAnalytics:             # Add, if you want to track with Google Analytics
-    id: UA-134165278-1         # Required - replace with your tracking id
-    anonymizeIp: true          # Optional - Default: false - set to true for anonymized tracking
-    respectDNT: true
+#jekyll_analytics:
+#  GoogleAnalytics:             # Add, if you want to track with Google Analytics
+#    id: UA-134165278-1         # Required - replace with your tracking id
+#    anonymizeIp: true          # Optional - Default: false - set to true for anonymized tracking
+#    respectDNT: true
 
 #Optimize Images
 #compress_images:
