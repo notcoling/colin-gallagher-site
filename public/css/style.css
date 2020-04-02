@@ -1,7 +1,8 @@
 
 /* CGME Red/Orange */
 .theme-base-cgme .sidebar {
-    background-color: #e44a1e;
+    /* background-color: #e44a1e; */
+    background-color: #333;
   }
   .theme-base-cgme .content a,
   .theme-base-cgme .related-posts li a:hover {
