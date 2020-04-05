@@ -100,5 +100,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - archive/
 #   - Gemfile
 #   - Gemfile.lock

@@ -1,0 +1,16 @@
+---
+layout: post
+title: A Test Post for my Blog
+date: 2020-04-05T21:29:50.072Z
+description: >-
+  Maybe we better talk out here; the observation lounge has turned into a swamp. Maybe if we felt any human loss as keenly as we feel one of those close to us, human history would be far less bloody. You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice.
+categories: 
+  - test
+tags:
+  - a
+  - test
+  - post
+excerpt_separator: <!--more-->
+---
+
+this is some text
