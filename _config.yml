@@ -101,5 +101,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - archive/
+  - _posts/_templates
 #   - Gemfile
 #   - Gemfile.lock
