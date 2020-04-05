@@ -6,7 +6,23 @@
   }
   .theme-base-cgme .content a,
   .theme-base-cgme .related-posts li a:hover {
+    color: #3498db;
+  }
+
+  .theme-base-cgme .content .post-title a{
+    color:#999;
+  }
+
+  .cgme-card-container a{
+    color:#999 !important;
+  }
+
+  .theme-base-cgme .content a:hover{
     color: #e44a1e;
+  }
+
+  a#site_title:hover{
+    color:#fff;
   }
 
 .cgme-sidebar-logo-image{
@@ -26,6 +42,35 @@
     margin-right:10px;
 }
 
+ul.post-meta-categories-list{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+ul.post-meta-categories-list li:before {
+  content: "➡️";
+  display: block;
+  float: left;
+  width: 1.5em;
+}
+
+
+ul.post-meta-tags-list{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+ul.post-meta-tags-list li:before {
+  content: "🔖";
+  display: block;
+  float: left;
+  width: 1.5em;
+}
+
 /*
     Brand colors 
  *  Colors need to function in dark mode enviroment, so in the case of brands like github
@@ -34,7 +79,8 @@
  *  Source of brand colors: https://brandcolors.net/
 */
 .cgme-link-icon-twitter:hover{color:#1da1f2;} /* Twitter brand color */
-.cgme-link-icon-github:hover{color:#333;} /* Github brand color */
+/* .cgme-link-icon-github:hover{color:#333;} *//* Github brand color */ 
+.cgme-link-icon-github:hover{color:#C1C1C1;} /* Github inherit my brand color */ 
 .cgme-link-icon-instagram:hover{color:#c13584;} /* Instagram brand color */
 .cgme-link-icon-linkedin:hover{color:#0077b5;} /* LinkedIn brand color */
 
