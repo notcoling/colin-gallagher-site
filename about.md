@@ -2,7 +2,7 @@
 layout: sidebar-page
 title: About Me
 ---
-I’m a data savvy web developer, software engineer, and marketing professional. I currently work as a data manager for Mentor, a Siemens Business.
+I’m a data savvy web developer, software engineer, and marketing professional. I currently work as a data manager for a software company.
 
 <img src="{{site.baseurl}}public/img/assets/colin.jpg" alt="A Picture of Me" class="cgme-about-page-image">
 
