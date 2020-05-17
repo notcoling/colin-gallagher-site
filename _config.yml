@@ -91,6 +91,9 @@ jekyll-minifier:
   uglifier_args:                    # Default: (empty)
     harmony: true                   # Enable es6 syntax
 
+include:
+  - _redirects
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
