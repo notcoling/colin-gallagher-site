@@ -30,6 +30,6 @@ When I saw the above tweet from Liam, I thought it would be fun to put together 
 
 This script uses [Netlify redirects](https://docs.netlify.com/routing/redirects/) in order to send people who visit these urls to the award winning 1987 debut single from Rick Astley that we all know and love. If you host your site with Netlify you can [add this script to the root of your site and do the same](https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file).
 
-You can see this in action by trying to go to [https://colingallagher.me/admin](https://colingallagher.me/admin)
+You can see this in action by trying to go to [https://colingallagher.me/wp-admin](https://colingallagher.me/wp-admin)
 
 ![Rick Astley Dancing](https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif)
