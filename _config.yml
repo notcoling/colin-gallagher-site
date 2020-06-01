@@ -93,6 +93,7 @@ jekyll-minifier:
 
 include:
   - _redirects
+  - _projects
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -105,5 +106,5 @@ exclude:
   - vendor/ruby/
   - archive/
   - _posts/_templates
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
